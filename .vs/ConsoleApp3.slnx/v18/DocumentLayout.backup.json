@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alissa\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\alissa\\source\\repos\\consoleapp3\\consoleapp3\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\alissa\\source\\repos\\consoleapp3\\consoleapp3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\alissa\\source\\repos\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alissa\\source\\repos\\ConsoleApp3\\ConsoleApp3\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alissa\\source\\repos\\ConsoleApp3\\ConsoleApp3\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp3\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:11:39.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\alissa\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Employee.cs",
+              "ToolTip": "C:\\Users\\alissa\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp3\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:02:31.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alissa\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\alissa\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T10:57:30.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
